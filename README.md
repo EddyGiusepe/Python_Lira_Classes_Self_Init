@@ -1,0 +1,1 @@
+# Python_Lira_Classes_Self_Init
