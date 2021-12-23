@@ -22,8 +22,8 @@ assim como as funções do controle, que são as ações de cada botão.
 Depois teremos outro exemplo prático de classes no Python para que você possa fixar o conhecimento
 e já começar a utilizar a orientação a objetos nos seus projetos maiores!
 
-Lembrando que nós estamos utilizando o editor de Python <font color="yellow">PyCharm</color>,
+Lembrando que nós estamos utilizando o editor de Python <font color="yellow">PyCharm</font>,
 pois ele acaba ajudando e ainda coloca o (self) de forma automática para que você não esqueça!
 
 
-Thanks God! 
+<font color="orange">Thanks God!</font> 
