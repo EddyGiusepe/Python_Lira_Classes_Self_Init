@@ -13,18 +13,23 @@ class ControleRemoto:
         self.profundidade = profundidade
         self.largura = largura
 
-    def passar_canal(self):
+    def passar_canal(self, botao):
+        if botao == "+":
+            print("Aumentar o canal")
+        elif botao == "+":
+            print("Diminuir o canal")
 
 
 
-
-
-print("Aqui vamos a imprimir um exemplo: ")
+print("Aqui vamos a imprimir um primeiro CONTROLE: ")
 controle_remoto = ControleRemoto("preto", "10cm", "2cm", "2cm")
 print(controle_remoto.altura)
-
-
-
+controle_remoto.passar_canal("+")
+print("")
+print("Aqui vamos a imprimir um segundo CONTROLE: ")
+controle_remoto2 = ControleRemoto("cinza", "10cm", "2cm", "2cm")
+print(controle_remoto2.cor)
+controle_remoto2.passar_canal("-")
 
 
 
