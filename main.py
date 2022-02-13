@@ -16,7 +16,7 @@ class ControleRemoto:
     def passar_canal(self, botao):
         if botao == "+":
             print("Aumentar o canal")
-        elif botao == "+":
+        elif botao == "-":
             print("Diminuir o canal")
 
 
