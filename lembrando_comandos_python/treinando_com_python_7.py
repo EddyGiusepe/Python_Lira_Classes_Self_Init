@@ -9,4 +9,3 @@ Link de estudo: https://www.youtube.com/watch?v=E76ErVQ1xNI&list=PLqlQ2-9ypflT5L
 A herença é a capacidade que tem uma classe de heredar os ATRIBUTOS e MÉTODOS de outra, isso nos ajuda a reutilizar
 código e fazer que nossos programas sejam muito mais ótimos. 
 '''
-class 
